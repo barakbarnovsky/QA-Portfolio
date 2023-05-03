@@ -9,8 +9,12 @@ Sanity, End2End, Regression, Retest, Load, Black Box and more.
 • Analysis of characterization documents.
 • Testing in diverse work environments Web, Mobile and PC.
 • Experience with Java and Selenium programming languages.
-skills 
 
+
+
+
+
+skills 
 
 1-Strong knowledge of qa methodologies and techniques
 2-Experience with manual testing, including writing and executing test cases
@@ -27,6 +31,16 @@ skills
 13-Experience with smoke security, and usability testing
 14-Familiarity with accessibility and internationalization standards
 15-Ability to work independently and prioritize tasks effectively
+
+
+
+
+
+
+
+
+
+
 
 
 
