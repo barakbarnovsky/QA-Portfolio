@@ -14,7 +14,7 @@ Tools and skills
 • Office 365 and Google Suite. 
 • STP, STD, and STR.
 • CSS, HTML and Bootstrap.
-• SQL to JOIN level.
+• SQL.
 • Methodologies: Waterfall, Spiral, Scrum, Agile, V and TDD.
 • Workspaces: Visual Studio Code and Notepad++.
 • Monday, Jira and TestRail.
